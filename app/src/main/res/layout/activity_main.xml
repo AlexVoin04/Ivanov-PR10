@@ -14,7 +14,7 @@
         android:layout_height="68dp"
         android:layout_marginStart="24dp"
         android:layout_marginTop="156dp"
-        android:background="#E5E5E5"
+        android:background="@drawable/test4"
         android:orientation="vertical"
 
         app:layout_constraintStart_toStartOf="parent"
@@ -45,7 +45,7 @@
         android:layout_height="68dp"
         android:layout_marginStart="24dp"
         android:layout_marginTop="75dp"
-        android:background="#FE6AE6"
+        android:background="@drawable/test3"
         android:orientation="vertical"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
@@ -75,7 +75,7 @@
         android:layout_height="68dp"
         android:layout_marginStart="24dp"
         android:layout_marginTop="236dp"
-        android:background="#E5E5E5"
+        android:background="@drawable/test4"
         android:orientation="vertical"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
@@ -105,7 +105,7 @@
         android:layout_height="68dp"
         android:layout_marginStart="24dp"
         android:layout_marginTop="316dp"
-        android:background="#E5E5E5"
+        android:background="@drawable/test4"
         android:orientation="vertical"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
@@ -125,6 +125,7 @@
             android:layout_width="94dp"
             android:layout_height="48dp"
             android:layout_marginTop="-100px"
+            android:layout_marginLeft="10px"
             app:srcCompat="@drawable/__2022_05_08_120042" />
 
     </LinearLayout>
@@ -134,7 +135,7 @@
         android:layout_height="68dp"
         android:layout_marginStart="24dp"
         android:layout_marginTop="396dp"
-        android:background="#E5E5E5"
+        android:background="@drawable/test4"
         android:orientation="vertical"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
@@ -163,7 +164,7 @@
         android:layout_height="160dp"
         android:layout_marginStart="24dp"
         android:layout_marginBottom="59dp"
-        android:background="#E5E5E5"
+        android:background="@drawable/test4"
         android:orientation="horizontal"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent">
@@ -215,7 +216,7 @@
         android:layout_height="160dp"
         android:layout_marginEnd="27dp"
         android:layout_marginBottom="59dp"
-        android:background="#E5E5E5"
+        android:background="@drawable/test4"
         android:orientation="horizontal"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent">

@@ -12,7 +12,7 @@
         android:layout_height="350dp"
         android:layout_marginStart="1dp"
         android:layout_marginBottom="1dp"
-        android:background="#ECECEC"
+        android:background="@drawable/test"
         android:orientation="vertical"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -24,7 +24,7 @@
             android:layout_height="200px"
             android:layout_marginLeft="100px"
             android:layout_marginTop="200px"
-            android:background="#C4C4C4"
+            android:background="@drawable/test2"
             android:orientation="vertical">
 
             <ImageView
@@ -51,7 +51,7 @@
             android:layout_height="200px"
             android:layout_marginLeft="100px"
             android:layout_marginTop="100px"
-            android:background="#C4C4C4"
+            android:background="@drawable/test2"
             android:orientation="vertical">
 
             <ImageView
